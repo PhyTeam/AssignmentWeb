@@ -1,0 +1,1 @@
+<h2>This is hoem page. Hello <?php echo $username ?> </h2>

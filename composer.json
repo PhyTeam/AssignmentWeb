@@ -1,0 +1,12 @@
+{
+  "name": "PhucCom/SharingIdea",
+  "description": "Assignment 2, web  programming",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bui Ba Phuc",
+      "email": "buibaphuc95@gmail.com"
+    }
+  ]
+}
